@@ -9,7 +9,7 @@ public:
         for (vector<int> row : grid) {
             for (int num : row) {
                 totalSum += num;
-                if (++freq[num] == 2) {
+                if (reapeatingNumber && ++freq[num] == 2) {
                     reapeatingNumber = num;
                 }
             }
