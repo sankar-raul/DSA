@@ -35,9 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sankar-raul/DSA/tree/master/0136-single-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sankar-raul/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sankar-raul/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sankar-raul/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
