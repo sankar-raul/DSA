@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sankar-raul/DSA/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/sankar-raul/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sankar-raul/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sankar-raul/DSA/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/sankar-raul/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sankar-raul/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sankar-raul/DSA/tree/master/0169-majority-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sankar-raul/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -45,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sankar-raul/DSA/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sankar-raul/DSA/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sankar-raul/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
