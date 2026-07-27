@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-27T07:54:44.807Z",
+  "updatedAt": "2026-07-27T07:59:00.309Z",
   "problems": [
     {
       "frontendId": "66",
@@ -62,7 +62,7 @@
           "filename": "2965-find-missing-and-repeated-values.cpp",
           "path": "2965-find-missing-and-repeated-values/2965-find-missing-and-repeated-values.cpp",
           "sha": "c4a1fbac5e13b213e206a58bb9c0a268c7f263b2",
-          "lastSyncedAt": "2026-07-27T07:53:54.565Z"
+          "lastSyncedAt": "2026-07-27T07:59:00.309Z"
         }
       ]
     }
