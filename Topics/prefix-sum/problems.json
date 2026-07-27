@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-07-27T07:45:50.536Z",
+  "problems": [
+    {
+      "frontendId": "303",
+      "title": "Range Sum Query - Immutable",
+      "slug": "range-sum-query-immutable",
+      "problemName": "0303-range-sum-query-immutable",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+      "folderPath": "0303-range-sum-query-immutable/",
+      "readmePath": "0303-range-sum-query-immutable/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0303-range-sum-query-immutable.cpp",
+          "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.cpp",
+          "sha": "97847ee396190e6daa95e7ff442ef3b3ca2ee851",
+          "lastSyncedAt": "2026-07-27T07:45:50.536Z"
+        }
+      ]
+    }
+  ]
+}
