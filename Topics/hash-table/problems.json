@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-27T07:45:20.475Z",
+  "updatedAt": "2026-07-27T07:46:12.571Z",
   "problems": [
     {
       "frontendId": "169",
@@ -23,6 +23,26 @@
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "436116fb3b283a7754f4cb29586ad4645cd4ec6d",
           "lastSyncedAt": "2026-07-27T07:44:38.040Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "0219-contains-duplicate-ii/",
+      "readmePath": "0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0219-contains-duplicate-ii.cpp",
+          "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
+          "sha": "45dd4fefc8925bb68ef17d0e0388d7ad25085e6c",
+          "lastSyncedAt": "2026-07-27T07:46:12.571Z"
         }
       ]
     },
