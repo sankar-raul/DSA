@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-07-27T08:01:15.686Z",
+  "updatedAt": "2026-07-27T08:03:24.751Z",
   "problems": [
     {
       "frontendId": "2965",
@@ -22,7 +22,7 @@
           "filename": "2965-find-missing-and-repeated-values.cpp",
           "path": "2965-find-missing-and-repeated-values/2965-find-missing-and-repeated-values.cpp",
           "sha": "c4a1fbac5e13b213e206a58bb9c0a268c7f263b2",
-          "lastSyncedAt": "2026-07-27T08:01:15.686Z"
+          "lastSyncedAt": "2026-07-27T08:03:24.751Z"
         }
       ]
     }
