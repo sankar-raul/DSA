@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-27T08:02:19.042Z",
+  "updatedAt": "2026-07-27T08:02:30.902Z",
   "problems": [
     {
       "frontendId": "66",
@@ -162,7 +162,7 @@
           "filename": "0643-maximum-average-subarray-i.cpp",
           "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.cpp",
           "sha": "56f1e675c85ae70a59dc28e667ecfc55b1a621d5",
-          "lastSyncedAt": "2026-07-27T07:52:18.300Z"
+          "lastSyncedAt": "2026-07-27T08:02:30.902Z"
         }
       ]
     },
