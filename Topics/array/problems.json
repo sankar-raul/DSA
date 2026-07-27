@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-27T08:02:30.902Z",
+  "updatedAt": "2026-07-27T08:02:34.898Z",
   "problems": [
     {
       "frontendId": "66",
@@ -222,7 +222,7 @@
           "filename": "2078-two-furthest-houses-with-different-colors.cpp",
           "path": "2078-two-furthest-houses-with-different-colors/2078-two-furthest-houses-with-different-colors.cpp",
           "sha": "d813ac23cfe969e425828423b47a49e06b688b46",
-          "lastSyncedAt": "2026-07-27T07:52:24.674Z"
+          "lastSyncedAt": "2026-07-27T08:02:34.898Z"
         }
       ]
     },
