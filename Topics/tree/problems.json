@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-07-27T08:01:43.448Z",
+  "updatedAt": "2026-07-27T08:03:49.947Z",
   "problems": [
     {
       "frontendId": "144",
@@ -22,7 +22,7 @@
           "filename": "0144-binary-tree-preorder-traversal.cpp",
           "path": "0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.cpp",
           "sha": "029668f6bc36a39eaf8e9dbf011050f3f1b0d096",
-          "lastSyncedAt": "2026-07-27T08:01:43.448Z"
+          "lastSyncedAt": "2026-07-27T08:03:49.947Z"
         }
       ]
     }
