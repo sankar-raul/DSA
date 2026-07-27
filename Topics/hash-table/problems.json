@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-27T07:44:57.377Z",
+  "updatedAt": "2026-07-27T07:45:20.475Z",
   "problems": [
     {
       "frontendId": "169",
@@ -23,6 +23,26 @@
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "436116fb3b283a7754f4cb29586ad4645cd4ec6d",
           "lastSyncedAt": "2026-07-27T07:44:38.040Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1189",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "problemName": "1189-maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balloons/",
+      "folderPath": "1189-maximum-number-of-balloons/",
+      "readmePath": "1189-maximum-number-of-balloons/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1189-maximum-number-of-balloons.cpp",
+          "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.cpp",
+          "sha": "ee54e18adeab150391a65109c6d469a17314dafa",
+          "lastSyncedAt": "2026-07-27T07:45:20.475Z"
         }
       ]
     },
