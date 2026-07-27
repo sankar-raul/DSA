@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-27T08:03:24.751Z",
+  "updatedAt": "2026-07-27T08:04:13.330Z",
   "problems": [
     {
       "frontendId": "66",
@@ -42,7 +42,7 @@
           "filename": "0070-climbing-stairs.cpp",
           "path": "0070-climbing-stairs/0070-climbing-stairs.cpp",
           "sha": "07923dac67a87320972393d2508ee4f2d0c48a20",
-          "lastSyncedAt": "2026-07-27T08:02:01.962Z"
+          "lastSyncedAt": "2026-07-27T08:04:13.330Z"
         }
       ]
     },
