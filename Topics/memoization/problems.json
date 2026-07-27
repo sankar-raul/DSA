@@ -4,7 +4,7 @@
     "slug": "memoization",
     "name": "Memoization"
   },
-  "updatedAt": "2026-07-27T07:51:45.767Z",
+  "updatedAt": "2026-07-27T07:54:44.807Z",
   "problems": [
     {
       "frontendId": "70",
@@ -22,7 +22,7 @@
           "filename": "0070-climbing-stairs.cpp",
           "path": "0070-climbing-stairs/0070-climbing-stairs.cpp",
           "sha": "07923dac67a87320972393d2508ee4f2d0c48a20",
-          "lastSyncedAt": "2026-07-27T07:51:45.767Z"
+          "lastSyncedAt": "2026-07-27T07:54:44.807Z"
         }
       ]
     }
