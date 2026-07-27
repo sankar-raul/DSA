@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "trie",
+    "name": "Trie"
+  },
+  "updatedAt": "2026-07-27T07:46:02.101Z",
+  "problems": [
+    {
+      "frontendId": "2452",
+      "title": "Words Within Two Edits of Dictionary",
+      "slug": "words-within-two-edits-of-dictionary",
+      "problemName": "2452-words-within-two-edits-of-dictionary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/words-within-two-edits-of-dictionary/",
+      "folderPath": "2452-words-within-two-edits-of-dictionary/",
+      "readmePath": "2452-words-within-two-edits-of-dictionary/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2452-words-within-two-edits-of-dictionary.cpp",
+          "path": "2452-words-within-two-edits-of-dictionary/2452-words-within-two-edits-of-dictionary.cpp",
+          "sha": "5d7c5f6bebd8c528b3206158a6c6550d6aff4c5d",
+          "lastSyncedAt": "2026-07-27T07:46:02.101Z"
+        }
+      ]
+    }
+  ]
+}
