@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-07-27T08:04:38.703Z",
+  "updatedAt": "2026-07-27T08:04:44.048Z",
   "problems": [
     {
       "frontendId": "3",
@@ -62,7 +62,7 @@
           "filename": "0643-maximum-average-subarray-i.cpp",
           "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.cpp",
           "sha": "56f1e675c85ae70a59dc28e667ecfc55b1a621d5",
-          "lastSyncedAt": "2026-07-27T08:02:30.902Z"
+          "lastSyncedAt": "2026-07-27T08:04:44.048Z"
         }
       ]
     },
