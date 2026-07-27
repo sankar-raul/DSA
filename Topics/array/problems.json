@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-27T07:47:14.274Z",
+  "updatedAt": "2026-07-27T07:47:22.689Z",
   "problems": [
     {
       "frontendId": "88",
@@ -163,6 +163,26 @@
           "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.cpp",
           "sha": "77a7de327a319ca7db0cbf0afcf6a74017159905",
           "lastSyncedAt": "2026-07-27T07:47:14.274Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1848",
+      "title": "Minimum Distance to the Target Element",
+      "slug": "minimum-distance-to-the-target-element",
+      "problemName": "1848-minimum-distance-to-the-target-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-to-the-target-element/",
+      "folderPath": "1848-minimum-distance-to-the-target-element/",
+      "readmePath": "1848-minimum-distance-to-the-target-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1848-minimum-distance-to-the-target-element.cpp",
+          "path": "1848-minimum-distance-to-the-target-element/1848-minimum-distance-to-the-target-element.cpp",
+          "sha": "4ac5e939443ef8324ec1ccbda5a3e76277c201e7",
+          "lastSyncedAt": "2026-07-27T07:47:22.689Z"
         }
       ]
     },
