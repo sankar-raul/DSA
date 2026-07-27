@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-27T07:51:38.335Z",
+  "updatedAt": "2026-07-27T07:51:51.824Z",
   "problems": [
     {
       "frontendId": "66",
@@ -142,7 +142,7 @@
           "filename": "0303-range-sum-query-immutable.cpp",
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.cpp",
           "sha": "97847ee396190e6daa95e7ff442ef3b3ca2ee851",
-          "lastSyncedAt": "2026-07-27T07:45:50.536Z"
+          "lastSyncedAt": "2026-07-27T07:51:51.824Z"
         }
       ]
     },
