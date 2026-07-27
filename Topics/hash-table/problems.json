@@ -4,6 +4,27 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-27T07:43:41.247Z",
-  "problems": []
+  "updatedAt": "2026-07-27T07:44:26.591Z",
+  "problems": [
+    {
+      "frontendId": "2965",
+      "title": "Find Missing and Repeated Values",
+      "slug": "find-missing-and-repeated-values",
+      "problemName": "2965-find-missing-and-repeated-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-and-repeated-values/",
+      "folderPath": "2965-find-missing-and-repeated-values/",
+      "readmePath": "2965-find-missing-and-repeated-values/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2965-find-missing-and-repeated-values.cpp",
+          "path": "2965-find-missing-and-repeated-values/2965-find-missing-and-repeated-values.cpp",
+          "sha": "c4a1fbac5e13b213e206a58bb9c0a268c7f263b2",
+          "lastSyncedAt": "2026-07-27T07:44:26.591Z"
+        }
+      ]
+    }
+  ]
 }
