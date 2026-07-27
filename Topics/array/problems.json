@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-27T07:50:47.480Z",
+  "updatedAt": "2026-07-27T07:50:57.411Z",
   "problems": [
     {
       "frontendId": "66",
@@ -82,7 +82,7 @@
           "filename": "0169-majority-element.cpp",
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "436116fb3b283a7754f4cb29586ad4645cd4ec6d",
-          "lastSyncedAt": "2026-07-27T07:44:38.040Z"
+          "lastSyncedAt": "2026-07-27T07:50:57.411Z"
         }
       ]
     },
