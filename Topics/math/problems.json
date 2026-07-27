@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-27T07:44:26.591Z",
+  "updatedAt": "2026-07-27T07:45:40.647Z",
   "problems": [
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "0070-climbing-stairs/",
+      "readmePath": "0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0070-climbing-stairs.cpp",
+          "path": "0070-climbing-stairs/0070-climbing-stairs.cpp",
+          "sha": "07923dac67a87320972393d2508ee4f2d0c48a20",
+          "lastSyncedAt": "2026-07-27T07:45:40.647Z"
+        }
+      ]
+    },
     {
       "frontendId": "2965",
       "title": "Find Missing and Repeated Values",
