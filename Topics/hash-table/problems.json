@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-27T08:02:19.042Z",
+  "updatedAt": "2026-07-27T08:02:25.873Z",
   "problems": [
     {
       "frontendId": "3",
@@ -22,7 +22,7 @@
           "filename": "0003-longest-substring-without-repeating-characters.cpp",
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp",
           "sha": "bf37594a874ac3a4114cad3a49c5ebc33160bd61",
-          "lastSyncedAt": "2026-07-27T07:52:12.289Z"
+          "lastSyncedAt": "2026-07-27T08:02:25.873Z"
         }
       ]
     },
