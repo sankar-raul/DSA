@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-27T07:59:34.634Z",
+  "updatedAt": "2026-07-27T07:59:55.961Z",
   "problems": [
     {
       "frontendId": "3",
@@ -62,7 +62,7 @@
           "filename": "2452-words-within-two-edits-of-dictionary.cpp",
           "path": "2452-words-within-two-edits-of-dictionary/2452-words-within-two-edits-of-dictionary.cpp",
           "sha": "5d7c5f6bebd8c528b3206158a6c6550d6aff4c5d",
-          "lastSyncedAt": "2026-07-27T07:51:59.055Z"
+          "lastSyncedAt": "2026-07-27T07:59:55.961Z"
         }
       ]
     }
