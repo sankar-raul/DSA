@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-07-27T07:47:06.141Z",
+  "updatedAt": "2026-07-27T07:52:24.674Z",
   "problems": [
     {
       "frontendId": "2078",
@@ -22,7 +22,7 @@
           "filename": "2078-two-furthest-houses-with-different-colors.cpp",
           "path": "2078-two-furthest-houses-with-different-colors/2078-two-furthest-houses-with-different-colors.cpp",
           "sha": "d813ac23cfe969e425828423b47a49e06b688b46",
-          "lastSyncedAt": "2026-07-27T07:47:06.141Z"
+          "lastSyncedAt": "2026-07-27T07:52:24.674Z"
         }
       ]
     }
