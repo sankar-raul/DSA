@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-27T07:54:17.361Z",
+  "updatedAt": "2026-07-27T07:54:38.646Z",
   "problems": [
     {
       "frontendId": "66",
@@ -102,7 +102,7 @@
           "filename": "0198-house-robber.cpp",
           "path": "0198-house-robber/0198-house-robber.cpp",
           "sha": "dfe2ed903e556363af40c470f3f663c371b951b3",
-          "lastSyncedAt": "2026-07-27T07:51:38.335Z"
+          "lastSyncedAt": "2026-07-27T07:54:38.646Z"
         }
       ]
     },
