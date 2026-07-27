@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 18 | 14 | 4 | 0 |
+| 19 | 15 | 4 | 0 |
 
 ## Activity
 
@@ -25,28 +25,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-06-06 | 2 |
 | 2026-06-23 | 3 |
 | 2026-07-26 | 3 |
-| 2026-07-27 | 1 |
+| 2026-07-27 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 78% |
-| Hash Table | 6 | 33% |
-| Sliding Window | 4 | 22% |
-| Dynamic Programming | 3 | 17% |
-| Math | 3 | 17% |
-| String | 3 | 17% |
+| Array | 15 | 79% |
+| Hash Table | 7 | 37% |
+| Sliding Window | 4 | 21% |
+| Dynamic Programming | 3 | 16% |
+| Math | 3 | 16% |
+| String | 3 | 16% |
 | Counting | 2 | 11% |
 | Sorting | 2 | 11% |
-| Binary Tree | 1 | 6% |
-| Bit Manipulation | 1 | 6% |
+| Binary Tree | 1 | 5% |
+| Bit Manipulation | 1 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 14 |
+| [Array](Topics/array/) | 15 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -59,7 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 3 |
