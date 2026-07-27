@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-07-27T07:51:51.824Z",
+  "updatedAt": "2026-07-27T07:54:53.306Z",
   "problems": [
     {
       "frontendId": "303",
@@ -22,7 +22,7 @@
           "filename": "0303-range-sum-query-immutable.cpp",
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.cpp",
           "sha": "97847ee396190e6daa95e7ff442ef3b3ca2ee851",
-          "lastSyncedAt": "2026-07-27T07:51:51.824Z"
+          "lastSyncedAt": "2026-07-27T07:54:53.306Z"
         }
       ]
     }
