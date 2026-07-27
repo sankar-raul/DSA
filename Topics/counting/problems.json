@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-07-27T07:54:31.506Z",
+  "updatedAt": "2026-07-27T07:59:08.432Z",
   "problems": [
     {
       "frontendId": "169",
@@ -22,7 +22,7 @@
           "filename": "0169-majority-element.cpp",
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "436116fb3b283a7754f4cb29586ad4645cd4ec6d",
-          "lastSyncedAt": "2026-07-27T07:54:03.347Z"
+          "lastSyncedAt": "2026-07-27T07:59:08.432Z"
         }
       ]
     },
