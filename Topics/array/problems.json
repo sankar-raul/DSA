@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-27T07:44:07.572Z",
+  "updatedAt": "2026-07-27T07:44:26.591Z",
   "problems": [
     {
       "frontendId": "88",
@@ -23,6 +23,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.cpp",
           "sha": "a31f6d2b845b24698eaaa63a56c969d5e7eb9ca5",
           "lastSyncedAt": "2026-07-27T07:44:07.572Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2965",
+      "title": "Find Missing and Repeated Values",
+      "slug": "find-missing-and-repeated-values",
+      "problemName": "2965-find-missing-and-repeated-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-and-repeated-values/",
+      "folderPath": "2965-find-missing-and-repeated-values/",
+      "readmePath": "2965-find-missing-and-repeated-values/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2965-find-missing-and-repeated-values.cpp",
+          "path": "2965-find-missing-and-repeated-values/2965-find-missing-and-repeated-values.cpp",
+          "sha": "c4a1fbac5e13b213e206a58bb9c0a268c7f263b2",
+          "lastSyncedAt": "2026-07-27T07:44:26.591Z"
         }
       ]
     }
