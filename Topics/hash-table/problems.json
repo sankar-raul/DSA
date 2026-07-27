@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-27T07:44:38.040Z",
+  "updatedAt": "2026-07-27T07:44:57.377Z",
   "problems": [
     {
       "frontendId": "169",
@@ -23,6 +23,26 @@
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "436116fb3b283a7754f4cb29586ad4645cd4ec6d",
           "lastSyncedAt": "2026-07-27T07:44:38.040Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2461",
+      "title": "Maximum Sum of Distinct Subarrays With Length K",
+      "slug": "maximum-sum-of-distinct-subarrays-with-length-k",
+      "problemName": "2461-maximum-sum-of-distinct-subarrays-with-length-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/",
+      "folderPath": "2461-maximum-sum-of-distinct-subarrays-with-length-k/",
+      "readmePath": "2461-maximum-sum-of-distinct-subarrays-with-length-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2461-maximum-sum-of-distinct-subarrays-with-length-k.cpp",
+          "path": "2461-maximum-sum-of-distinct-subarrays-with-length-k/2461-maximum-sum-of-distinct-subarrays-with-length-k.cpp",
+          "sha": "2b88c889871d609af09f4e910c380fcefafbb0c7",
+          "lastSyncedAt": "2026-07-27T07:44:57.377Z"
         }
       ]
     },
