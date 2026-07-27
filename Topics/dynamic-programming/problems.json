@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-27T08:04:13.330Z",
+  "updatedAt": "2026-07-27T08:04:52.606Z",
   "problems": [
     {
       "frontendId": "70",
@@ -62,7 +62,7 @@
           "filename": "0746-min-cost-climbing-stairs.cpp",
           "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.cpp",
           "sha": "77a7de327a319ca7db0cbf0afcf6a74017159905",
-          "lastSyncedAt": "2026-07-27T08:02:39.020Z"
+          "lastSyncedAt": "2026-07-27T08:04:52.606Z"
         }
       ]
     }
