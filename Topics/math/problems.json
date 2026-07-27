@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-27T07:45:40.647Z",
+  "updatedAt": "2026-07-27T07:47:27.648Z",
   "problems": [
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0066-plus-one.cpp",
+          "path": "0066-plus-one/0066-plus-one.cpp",
+          "sha": "e37c86dce8ddf7a3430cdd0b70b7030bb610f10a",
+          "lastSyncedAt": "2026-07-27T07:47:27.648Z"
+        }
+      ]
+    },
     {
       "frontendId": "70",
       "title": "Climbing Stairs",
