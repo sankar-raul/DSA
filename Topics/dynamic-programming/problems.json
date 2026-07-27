@@ -4,6 +4,27 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-27T07:43:41.247Z",
-  "problems": []
+  "updatedAt": "2026-07-27T07:45:31.052Z",
+  "problems": [
+    {
+      "frontendId": "198",
+      "title": "House Robber",
+      "slug": "house-robber",
+      "problemName": "0198-house-robber",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+      "folderPath": "0198-house-robber/",
+      "readmePath": "0198-house-robber/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0198-house-robber.cpp",
+          "path": "0198-house-robber/0198-house-robber.cpp",
+          "sha": "dfe2ed903e556363af40c470f3f663c371b951b3",
+          "lastSyncedAt": "2026-07-27T07:45:31.052Z"
+        }
+      ]
+    }
+  ]
 }
