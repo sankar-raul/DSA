@@ -97,8 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sankar-raul/DSA/tree/master/1920-build-array-from-permutation) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sankar-raul/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sankar-raul/DSA/tree/master/1920-build-array-from-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sankar-raul/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
