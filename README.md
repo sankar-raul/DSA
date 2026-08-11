@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sankar-raul/DSA/tree/master/1920-build-array-from-permutation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sankar-raul/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sankar-raul/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -106,4 +107,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sankar-raul/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sankar-raul/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sankar-raul/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
