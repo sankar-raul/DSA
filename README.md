@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sankar-raul/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/sankar-raul/DSA/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
