@@ -31,17 +31,11 @@ public:
             start = seat;
             prev = row;
             current_idx++;
-            // if (start != 10) {
-            //     total += (9 - start) / 4;
-            // }
         }
-         if (start != 10) {
+        if (start != 10) {
             total += (9 - start) / 4;
         }
-
-        // Every completely empty row can have 2 families
         total += (n - (distinctRows + 1)) * 2;
-
         return total;
     }
 };
