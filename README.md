@@ -137,9 +137,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sankar-raul/DSA/tree/master/0443-string-compression) |
 | [2418-sort-the-people](https://github.com/sankar-raul/DSA/tree/master/2418-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sankar-raul/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sankar-raul/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sankar-raul/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sankar-raul/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
