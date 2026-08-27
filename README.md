@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/sankar-raul/DSA/tree/master/0120-triangle) |
 | [0832-flipping-an-image](https://github.com/sankar-raul/DSA/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/sankar-raul/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1920-build-array-from-permutation](https://github.com/sankar-raul/DSA/tree/master/1920-build-array-from-permutation) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/sankar-raul/DSA/tree/master/0617-merge-two-binary-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sankar-raul/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/sankar-raul/DSA/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
