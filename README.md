@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sankar-raul/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sankar-raul/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3842-toggle-light-bulbs](https://github.com/sankar-raul/DSA/tree/master/3842-toggle-light-bulbs) |
+| [3895-count-digit-appearances](https://github.com/sankar-raul/DSA/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/sankar-raul/DSA/tree/master/0507-perfect-number) |
+| [3895-count-digit-appearances](https://github.com/sankar-raul/DSA/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
 | ------- |
