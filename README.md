@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/sankar-raul/DSA/tree/master/0120-triangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sankar-raul/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0832-flipping-an-image](https://github.com/sankar-raul/DSA/tree/master/0832-flipping-an-image) |
+| [1029-two-city-scheduling](https://github.com/sankar-raul/DSA/tree/master/1029-two-city-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/sankar-raul/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1920-build-array-from-permutation](https://github.com/sankar-raul/DSA/tree/master/1920-build-array-from-permutation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sankar-raul/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sankar-raul/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1029-two-city-scheduling](https://github.com/sankar-raul/DSA/tree/master/1029-two-city-scheduling) |
 | [2418-sort-the-people](https://github.com/sankar-raul/DSA/tree/master/2418-sort-the-people) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sankar-raul/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sankar-raul/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1029-two-city-scheduling](https://github.com/sankar-raul/DSA/tree/master/1029-two-city-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/sankar-raul/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sankar-raul/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Math
@@ -182,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/sankar-raul/DSA/tree/master/0120-triangle) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/sankar-raul/DSA/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/sankar-raul/DSA/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
