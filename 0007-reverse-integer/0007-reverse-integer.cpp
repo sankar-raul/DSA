@@ -7,7 +7,7 @@ public:
             rev = rev * 10 + digit;
             x /= 10;
         }
-        cout << rev << endl;
-        return abs(rev) > INT_MAX ? 0 : rev;
+        if (rev <= INT_MAX && rev >= INT_MIN) return rev;
+        return 0;
     }
 };
