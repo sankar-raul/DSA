@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sankar-raul/DSA/tree/master/0007-reverse-integer) |
 | [0507-perfect-number](https://github.com/sankar-raul/DSA/tree/master/0507-perfect-number) |
 | [3895-count-digit-appearances](https://github.com/sankar-raul/DSA/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
