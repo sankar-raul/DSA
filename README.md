@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sankar-raul/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3842-toggle-light-bulbs](https://github.com/sankar-raul/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3895-count-digit-appearances](https://github.com/sankar-raul/DSA/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/sankar-raul/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/sankar-raul/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/sankar-raul/DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
