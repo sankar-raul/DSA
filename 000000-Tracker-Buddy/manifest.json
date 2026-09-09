@@ -1,0 +1,12 @@
+{
+  "name": "Tracker Buddy",
+  "short_name": "Tracker Buddy",
+  "description": "A local-first LeetCode problem tracker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#c4ff3d",
+  "lang": "en",
+  "dir": "ltr"
+}

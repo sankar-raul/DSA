@@ -1,0 +1,1704 @@
+[
+  {
+    "id": "eadf74b1-9e5e-4ca7-976d-e85aa2280122",
+    "number": 1,
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/two-sum/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "hash-map"
+    ]
+  },
+  {
+    "id": "41a9ba3a-d607-4856-a6c9-d07f762df2c2",
+    "number": 2,
+    "title": "Add Two Numbers",
+    "slug": "add-two-numbers",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/add-two-numbers/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "linked-list",
+      "math",
+      "simulation"
+    ]
+  },
+  {
+    "id": "dc448031-a29c-4264-b5ca-55d9d190fd0b",
+    "number": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "hash-map",
+      "sliding-window",
+      "strings",
+      "two-pointers"
+    ]
+  },
+  {
+    "id": "402f2467-c592-48a3-9858-079db1e75c06",
+    "number": 4,
+    "title": "Median of Two Sorted Arrays",
+    "slug": "median-of-two-sorted-arrays",
+    "difficulty": "hard",
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "binary-search",
+      "divide-and-conquer"
+    ]
+  },
+  {
+    "id": "1df9b7fe-5bec-4a0e-a5c4-22c8c15dbfc3",
+    "number": 5,
+    "title": "Longest Palindromic Substring",
+    "slug": "longest-palindromic-substring",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "dynamic-programming",
+      "palindrome",
+      "strings",
+      "two-pointers"
+    ]
+  },
+  {
+    "id": "00e061e5-fc34-44b8-9c85-8e336e3aafcd",
+    "number": 11,
+    "title": "Container With Most Water",
+    "slug": "container-with-most-water",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/container-with-most-water/",
+    "tags": [],
+    "topics": [
+      "two-pointers",
+      "greedy",
+      "arrays"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "10b9d340-d9fe-417e-a554-3b411435875f",
+    "number": 15,
+    "title": "3Sum",
+    "slug": "3sum",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/3sum/",
+    "tags": [],
+    "topics": [
+      "two-pointers",
+      "sorting",
+      "arrays"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "fe4010eb-1aba-42b2-a571-87746cb7ce8b",
+    "number": 19,
+    "title": "Remove Nth Node From End of List",
+    "slug": "remove-nth-node-from-end-of-list",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "fast-slow-pointers",
+      "linked-list",
+      "two-pointers"
+    ]
+  },
+  {
+    "id": "2cdc5483-37b0-4a5c-a428-d11f59eca271",
+    "number": 20,
+    "title": "Valid Parentheses",
+    "slug": "valid-parentheses",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/valid-parentheses/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "stack",
+      "strings"
+    ]
+  },
+  {
+    "id": "ad1644e9-cff9-4052-9f1c-fcab297b2169",
+    "number": 21,
+    "title": "Merge Two Sorted Lists",
+    "slug": "merge-two-sorted-lists",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "linked-list",
+      "merging",
+      "two-pointers"
+    ]
+  },
+  {
+    "id": "d5984b46-53cd-4c19-9854-a4cb536d553f",
+    "number": 22,
+    "title": "Generate Parentheses",
+    "slug": "generate-parentheses",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/generate-parentheses/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "backtracking",
+      "recursion",
+      "strings"
+    ]
+  },
+  {
+    "id": "b33a33cc-c7ac-4fb2-a9e5-400417a046ec",
+    "number": 24,
+    "title": "Swap Nodes in Pairs",
+    "slug": "swap-nodes-in-pairs",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+    "tags": [],
+    "topics": [
+      "linked-list",
+      "in-place-reversal",
+      "pointers"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "abc94401-0c13-4646-8e41-c7316467146b",
+    "number": 33,
+    "title": "Search in Rotated Sorted Array",
+    "slug": "search-in-rotated-sorted-array",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "binary-search",
+      "modified-binary-search",
+      "sorted-array"
+    ]
+  },
+  {
+    "id": "65a5c2db-c52b-41b4-bb6f-b0ca829c86fe",
+    "number": 35,
+    "title": "Search Insert Position",
+    "slug": "search-insert-position",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/search-insert-position/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "binary-search"
+    ]
+  },
+  {
+    "id": "402ea097-8d7c-4e83-bdc1-edeecb1dc01e",
+    "number": 43,
+    "title": "Multiply Strings",
+    "slug": "multiply-strings",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/multiply-strings/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "math",
+      "simulation",
+      "strings"
+    ]
+  },
+  {
+    "id": "16364272-f2a5-4fbf-ac6e-eedb4bfc5e4b",
+    "number": 46,
+    "title": "Permutations",
+    "slug": "permutations",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/permutations/",
+    "tags": [],
+    "topics": [
+      "backtracking",
+      "recursion",
+      "arrays",
+      "permutations"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "fe9862e6-685d-4fd5-8abe-e7c4e7f7f1f9",
+    "number": 49,
+    "title": "Group Anagrams",
+    "slug": "group-anagrams",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/group-anagrams/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "hash-map",
+      "sorting",
+      "strings"
+    ]
+  },
+  {
+    "id": "da853cbf-997e-4549-8c33-329f6af0a8c8",
+    "number": 51,
+    "title": "N-Queens",
+    "slug": "n-queens",
+    "difficulty": "hard",
+    "url": "https://leetcode.com/problems/n-queens/",
+    "tags": [],
+    "topics": [
+      "backtracking",
+      "recursion",
+      "matrix",
+      "constraint-satisfaction"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "99ceaff6-01fd-4700-bc5a-794e33977705",
+    "number": 56,
+    "title": "Merge Intervals",
+    "slug": "merge-intervals",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/merge-intervals/",
+    "tags": [],
+    "topics": [
+      "intervals",
+      "sorting",
+      "merging"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "2a526749-1e1f-4cbb-85a9-267c748ba682",
+    "number": 57,
+    "title": "Insert Interval",
+    "slug": "insert-interval",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/insert-interval/",
+    "tags": [],
+    "topics": [
+      "intervals",
+      "sorting",
+      "merging"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "084b9722-3378-4361-9d09-02bf2d0b34ba",
+    "number": 62,
+    "title": "Unique Paths",
+    "slug": "unique-paths",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/unique-paths/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "2d-dp",
+      "dynamic-programming",
+      "matrix"
+    ]
+  },
+  {
+    "id": "6ba82fc0-8977-481b-bb29-559e966c1095",
+    "number": 70,
+    "title": "Climbing Stairs",
+    "slug": "climbing-stairs",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/climbing-stairs/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "1d-dp",
+      "dynamic-programming",
+      "memoization",
+      "recursion"
+    ]
+  },
+  {
+    "id": "db1e40c8-93d0-41d7-a3f3-e09841b32cca",
+    "number": 74,
+    "title": "Search a 2D Matrix",
+    "slug": "search-a-2d-matrix",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "binary-search",
+      "matrix"
+    ]
+  },
+  {
+    "id": "543287d9-a5f7-4c19-913e-efe58fbb4a1a",
+    "number": 76,
+    "title": "Minimum Window Substring",
+    "slug": "minimum-window-substring",
+    "difficulty": "hard",
+    "url": "https://leetcode.com/problems/minimum-window-substring/",
+    "tags": [],
+    "topics": [
+      "sliding-window",
+      "hash-map",
+      "strings",
+      "two-pointers"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "6129af2c-cead-4fc5-9e43-d1f07edc6ccb",
+    "number": 78,
+    "title": "Subsets",
+    "slug": "subsets",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/subsets/",
+    "tags": [],
+    "topics": [
+      "backtracking",
+      "recursion",
+      "arrays",
+      "subsets"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "446c0861-7585-48dd-b533-006296cf4498",
+    "number": 84,
+    "title": "Largest Rectangle in Histogram",
+    "slug": "largest-rectangle-in-histogram",
+    "difficulty": "hard",
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "monotonic-stack",
+      "stack"
+    ]
+  },
+  {
+    "id": "56ab2bd5-4e34-4f50-bf24-ccfef52a6747",
+    "number": 92,
+    "title": "Reverse Linked List II",
+    "slug": "reverse-linked-list-ii",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/reverse-linked-list-ii/",
+    "tags": [],
+    "topics": [
+      "linked-list",
+      "in-place-reversal",
+      "pointers"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "aa87c63a-509b-4b4b-8ae9-7696523975b0",
+    "number": 98,
+    "title": "Validate Binary Search Tree",
+    "slug": "validate-binary-search-tree",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "binary-tree",
+      "bst",
+      "dfs",
+      "inorder-traversal"
+    ]
+  },
+  {
+    "id": "325564ae-f44f-4021-b82a-3de1f05641dc",
+    "number": 100,
+    "title": "Same Tree",
+    "slug": "same-tree",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/same-tree/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "bfs",
+      "binary-tree",
+      "dfs",
+      "recursion"
+    ]
+  },
+  {
+    "id": "dba9a360-ac08-418e-9c76-a9434b832311",
+    "number": 102,
+    "title": "Binary Tree Level Order Traversal",
+    "slug": "binary-tree-level-order-traversal",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "bfs",
+      "binary-tree",
+      "level-order-traversal",
+      "queue"
+    ]
+  },
+  {
+    "id": "9d370370-aaba-4e09-a466-e1c2c7b99755",
+    "number": 104,
+    "title": "Maximum Depth of Binary Tree",
+    "slug": "maximum-depth-of-binary-tree",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "bfs",
+      "binary-tree",
+      "dfs",
+      "recursion"
+    ]
+  },
+  {
+    "id": "5d03185f-0880-4b5e-b9e4-cebafdcf3015",
+    "number": 113,
+    "title": "Path Sum II",
+    "slug": "path-sum-ii",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/path-sum-ii/",
+    "tags": [],
+    "topics": [
+      "binary-tree",
+      "dfs",
+      "backtracking",
+      "recursion"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "5e95caf5-1f17-42f7-a514-142af6befb87",
+    "number": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "slug": "binary-tree-maximum-path-sum",
+    "difficulty": "hard",
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "binary-tree",
+      "dfs",
+      "recursion",
+      "tree-dp"
+    ]
+  },
+  {
+    "id": "6d743a36-5ecb-4db9-8ce4-646f2980164e",
+    "number": 125,
+    "title": "Valid Palindrome",
+    "slug": "valid-palindrome",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/valid-palindrome/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "palindrome",
+      "strings",
+      "two-pointers"
+    ]
+  },
+  {
+    "id": "d2d4f9a7-8acd-48b5-ba18-e0db39986738",
+    "number": 127,
+    "title": "Word Ladder",
+    "slug": "word-ladder",
+    "difficulty": "hard",
+    "url": "https://leetcode.com/problems/word-ladder/",
+    "tags": [],
+    "topics": [
+      "bfs",
+      "graph",
+      "shortest-path",
+      "hash-set"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "cc6a866b-e881-474e-b18f-37cb39ea8066",
+    "number": 128,
+    "title": "Longest Consecutive Sequence",
+    "slug": "longest-consecutive-sequence",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "hash-set",
+      "sorting"
+    ]
+  },
+  {
+    "id": "91104e33-99e4-413c-90bd-e3b6e2881911",
+    "number": 130,
+    "title": "Surrounded Regions",
+    "slug": "surrounded-regions",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/surrounded-regions/",
+    "tags": [],
+    "topics": [
+      "dfs",
+      "bfs",
+      "matrix",
+      "grid",
+      "connected-components"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "35df9d18-aaee-46d9-b7a0-ac60c9c4b3d0",
+    "number": 133,
+    "title": "Clone Graph",
+    "slug": "clone-graph",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/clone-graph/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "bfs",
+      "dfs",
+      "graph",
+      "hash-map"
+    ]
+  },
+  {
+    "id": "099ede8b-8a2e-4e36-9ea4-e4c493bc7711",
+    "number": 138,
+    "title": "Copy List with Random Pointer",
+    "slug": "copy-list-with-random-pointer",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "hash-map",
+      "linked-list",
+      "pointers"
+    ]
+  },
+  {
+    "id": "388382e7-f686-4507-962c-6fb935628f2e",
+    "number": 141,
+    "title": "Linked List Cycle",
+    "slug": "linked-list-cycle",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/linked-list-cycle/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "cycle-detection",
+      "fast-slow-pointers",
+      "linked-list"
+    ]
+  },
+  {
+    "id": "05b0d149-436d-41ec-884e-4b8f92ff2a6c",
+    "number": 143,
+    "title": "Reorder List",
+    "slug": "reorder-list",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/reorder-list/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "fast-slow-pointers",
+      "in-place-reversal",
+      "linked-list",
+      "two-pointers"
+    ]
+  },
+  {
+    "id": "c06c17eb-b959-4149-bdc0-0758b0952b7e",
+    "number": 150,
+    "title": "Evaluate Reverse Polish Notation",
+    "slug": "evaluate-reverse-polish-notation",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "math",
+      "stack",
+      "strings"
+    ]
+  },
+  {
+    "id": "9a7292a7-e523-4aec-bddd-ce7f3a54809c",
+    "number": 152,
+    "title": "Maximum Product Subarray",
+    "slug": "maximum-product-subarray",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/maximum-product-subarray/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "dynamic-programming",
+      "subarrays"
+    ]
+  },
+  {
+    "id": "21d4a070-d1fe-4a7f-ac21-e648a2976f7a",
+    "number": 153,
+    "title": "Find Minimum in Rotated Sorted Array",
+    "slug": "find-minimum-in-rotated-sorted-array",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "binary-search",
+      "modified-binary-search",
+      "sorted-array"
+    ]
+  },
+  {
+    "id": "4ebec8f1-f8fc-4396-8f88-d17202bfc9b1",
+    "number": 155,
+    "title": "Min Stack",
+    "slug": "min-stack",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/min-stack/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "design",
+      "stack"
+    ]
+  },
+  {
+    "id": "41dfb9b3-4a3c-4bde-9827-b8c1950507bc",
+    "number": 167,
+    "title": "Two Sum II - Input Array Is Sorted",
+    "slug": "two-sum-ii-input-array-is-sorted",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "tags": [],
+    "topics": [
+      "two-pointers",
+      "arrays",
+      "sorted-array"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "9d99fa9e-109b-48d1-b896-81fe868d5815",
+    "number": 198,
+    "title": "House Robber",
+    "slug": "house-robber",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/house-robber/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "1d-dp",
+      "dynamic-programming",
+      "memoization",
+      "state-transition"
+    ]
+  },
+  {
+    "id": "97d6a4be-d0f8-4a47-8986-ce030cd7c56a",
+    "number": 199,
+    "title": "Binary Tree Right Side View",
+    "slug": "binary-tree-right-side-view",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "bfs",
+      "binary-tree",
+      "dfs",
+      "queue"
+    ]
+  },
+  {
+    "id": "38776a2a-046c-4fa9-ac26-55d7f626aca8",
+    "number": 200,
+    "title": "Number of Islands",
+    "slug": "number-of-islands",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/number-of-islands/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "bfs",
+      "connected-components",
+      "dfs",
+      "grid",
+      "matrix"
+    ]
+  },
+  {
+    "id": "e7713395-9632-4510-844f-01149825f9e4",
+    "number": 202,
+    "title": "Happy Number",
+    "slug": "happy-number",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/happy-number/",
+    "tags": [],
+    "topics": [
+      "fast-slow-pointers",
+      "cycle-detection",
+      "math"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "88c99a89-010b-4808-bf5d-afb4e1a72b96",
+    "number": 206,
+    "title": "Reverse Linked List",
+    "slug": "reverse-linked-list",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/reverse-linked-list/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "in-place-reversal",
+      "linked-list",
+      "pointers"
+    ]
+  },
+  {
+    "id": "3db9af0e-f104-4c1b-bc92-6d1c0c4c1043",
+    "number": 207,
+    "title": "Course Schedule",
+    "slug": "course-schedule",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/course-schedule/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "bfs",
+      "dfs",
+      "graph",
+      "topological-sort"
+    ]
+  },
+  {
+    "id": "8f851e35-6f2b-45bf-b03e-3125f91fb5e5",
+    "number": 210,
+    "title": "Course Schedule II",
+    "slug": "course-schedule-ii",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/course-schedule-ii/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "bfs",
+      "dfs",
+      "graph",
+      "topological-sort"
+    ]
+  },
+  {
+    "id": "f189012c-919d-4487-8dcb-db06afcc8787",
+    "number": 215,
+    "title": "Kth Largest Element in an Array",
+    "slug": "kth-largest-element-in-an-array",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "tags": [],
+    "topics": [
+      "heap",
+      "priority-queue",
+      "quickselect",
+      "top-k"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "2eba6977-33d4-47e9-8dc0-7908bd5b36b8",
+    "number": 217,
+    "title": "Contains Duplicate",
+    "slug": "contains-duplicate",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/contains-duplicate/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "hash-set"
+    ]
+  },
+  {
+    "id": "6e33a0b6-88a6-464a-8a00-67cb71604357",
+    "number": 226,
+    "title": "Invert Binary Tree",
+    "slug": "invert-binary-tree",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/invert-binary-tree/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "bfs",
+      "binary-tree",
+      "dfs",
+      "recursion"
+    ]
+  },
+  {
+    "id": "814227af-343a-493a-b593-8f86db1d03be",
+    "number": 230,
+    "title": "Kth Smallest Element in a BST",
+    "slug": "kth-smallest-element-in-a-bst",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+    "tags": [],
+    "topics": [
+      "binary-tree",
+      "bst",
+      "inorder-traversal",
+      "dfs"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "1ed756ac-5c27-4ba0-bcc1-29c5f81ce9da",
+    "number": 236,
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "slug": "lowest-common-ancestor-of-a-binary-tree",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "binary-tree",
+      "dfs",
+      "recursion",
+      "tree"
+    ]
+  },
+  {
+    "id": "836c020c-b338-4d33-a91c-b89b56fb5153",
+    "number": 238,
+    "title": "Product of Array Except Self",
+    "slug": "product-of-array-except-self",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/product-of-array-except-self/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "prefix-product",
+      "prefix-suffix"
+    ]
+  },
+  {
+    "id": "8402e931-b4fb-4982-9e1a-6127eb2650ae",
+    "number": 239,
+    "title": "Sliding Window Maximum",
+    "slug": "sliding-window-maximum",
+    "difficulty": "hard",
+    "url": "https://leetcode.com/problems/sliding-window-maximum/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "deque",
+      "monotonic-queue",
+      "sliding-window"
+    ]
+  },
+  {
+    "id": "a67fe1ae-6f77-40e3-91a1-c184b88bf3cc",
+    "number": 240,
+    "title": "Search a 2D Matrix II",
+    "slug": "search-a-2d-matrix-ii",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+    "tags": [],
+    "topics": [
+      "binary-search",
+      "matrix",
+      "two-pointers",
+      "sorted-matrix"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "d9dbd8df-6a4c-4eb8-a24e-b60e0a77b0e4",
+    "number": 242,
+    "title": "Valid Anagram",
+    "slug": "valid-anagram",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/valid-anagram/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "frequency-counting",
+      "hash-map",
+      "strings"
+    ]
+  },
+  {
+    "id": "921fdd6f-2fff-4041-b436-e2b8bebeda5e",
+    "number": 257,
+    "title": "Binary Tree Paths",
+    "slug": "binary-tree-paths",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/binary-tree-paths/",
+    "tags": [],
+    "topics": [
+      "binary-tree",
+      "dfs",
+      "tree-traversal",
+      "recursion"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "908207a8-0204-4b21-a68a-db88b106f9a3",
+    "number": 287,
+    "title": "Find the Duplicate Number",
+    "slug": "find-the-duplicate-number",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/find-the-duplicate-number/",
+    "tags": [],
+    "topics": [
+      "fast-slow-pointers",
+      "cycle-detection",
+      "arrays"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "1ad72288-d3d1-44c0-915a-1095bd3f38fe",
+    "number": 300,
+    "title": "Longest Increasing Subsequence",
+    "slug": "longest-increasing-subsequence",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "1d-dp",
+      "binary-search",
+      "dynamic-programming",
+      "subsequence"
+    ]
+  },
+  {
+    "id": "70a7c8b7-2622-435f-927b-c77060810b75",
+    "number": 303,
+    "title": "Range Sum Query - Immutable",
+    "slug": "range-sum-query-immutable",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/range-sum-query-immutable/",
+    "tags": [],
+    "topics": [
+      "prefix-sum",
+      "arrays"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "24ee2f75-65ea-4479-bfb8-e02fa2c70f9e",
+    "number": 322,
+    "title": "Coin Change",
+    "slug": "coin-change",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/coin-change/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "1d-dp",
+      "dynamic-programming",
+      "memoization",
+      "unbounded-knapsack"
+    ]
+  },
+  {
+    "id": "94900c51-74ed-43e0-983f-befa044fa4c5",
+    "number": 344,
+    "title": "Reverse String",
+    "slug": "reverse-string",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/reverse-string/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "in-place",
+      "strings",
+      "two-pointers"
+    ]
+  },
+  {
+    "id": "8ccd7f2d-bfe3-42df-83e9-ab86f29fb998",
+    "number": 347,
+    "title": "Top K Frequent Elements",
+    "slug": "top-k-frequent-elements",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "frequency-counting",
+      "hash-map",
+      "heap",
+      "top-k"
+    ]
+  },
+  {
+    "id": "cda3a083-fb4f-48b8-ac76-42df828baa18",
+    "number": 373,
+    "title": "Find K Pairs with Smallest Sums",
+    "slug": "find-k-pairs-with-smallest-sums",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
+    "tags": [],
+    "topics": [
+      "heap",
+      "priority-queue",
+      "top-k",
+      "arrays"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "aab69507-8fc8-42a2-a875-f0a777c04cc8",
+    "number": 416,
+    "title": "Partition Equal Subset Sum",
+    "slug": "partition-equal-subset-sum",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "0-1-knapsack",
+      "1d-dp",
+      "dynamic-programming",
+      "subset-sum"
+    ]
+  },
+  {
+    "id": "fe21b87c-7b2b-4bf4-81ac-9dca4204b3f9",
+    "number": 417,
+    "title": "Pacific Atlantic Water Flow",
+    "slug": "pacific-atlantic-water-flow",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "bfs",
+      "dfs",
+      "graph",
+      "grid",
+      "matrix"
+    ]
+  },
+  {
+    "id": "850e9af3-ba06-4b63-989a-2fa933478061",
+    "number": 424,
+    "title": "Longest Repeating Character Replacement",
+    "slug": "longest-repeating-character-replacement",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "hash-map",
+      "sliding-window",
+      "strings",
+      "two-pointers"
+    ]
+  },
+  {
+    "id": "c3305522-31c9-44f2-b7d4-9f0fc215b8b3",
+    "number": 435,
+    "title": "Non-overlapping Intervals",
+    "slug": "non-overlapping-intervals",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/non-overlapping-intervals/",
+    "tags": [],
+    "topics": [
+      "intervals",
+      "sorting",
+      "greedy"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "6986504d-d707-4b22-adec-2e23fc45e193",
+    "number": 496,
+    "title": "Next Greater Element I",
+    "slug": "next-greater-element-i",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/next-greater-element-i/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "monotonic-stack",
+      "stack"
+    ]
+  },
+  {
+    "id": "36374c31-6205-4fb1-8389-3090f38b41be",
+    "number": 525,
+    "title": "Contiguous Array",
+    "slug": "contiguous-array",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/contiguous-array/",
+    "tags": [],
+    "topics": [
+      "prefix-sum",
+      "hash-map",
+      "arrays"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "04a2551c-2db7-4fca-808b-8e75f33970e0",
+    "number": 543,
+    "title": "Diameter of Binary Tree",
+    "slug": "diameter-of-binary-tree",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "binary-tree",
+      "dfs",
+      "recursion",
+      "tree-dp"
+    ]
+  },
+  {
+    "id": "c9aadf2a-722d-429b-ac7b-b096029c9a85",
+    "number": 547,
+    "title": "Number of Provinces",
+    "slug": "number-of-provinces",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/number-of-provinces/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "bfs",
+      "connected-components",
+      "dfs",
+      "graph"
+    ]
+  },
+  {
+    "id": "eb49e366-4923-4c43-bc6f-fa9d8388125d",
+    "number": 560,
+    "title": "Subarray Sum Equals K",
+    "slug": "subarray-sum-equals-k",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "hash-map",
+      "prefix-sum",
+      "subarrays"
+    ]
+  },
+  {
+    "id": "80688cab-e0ba-4c05-8246-82877c270b2a",
+    "number": 567,
+    "title": "Permutation in String",
+    "slug": "permutation-in-string",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/permutation-in-string/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "frequency-counting",
+      "hash-map",
+      "sliding-window",
+      "strings"
+    ]
+  },
+  {
+    "id": "98b7cf6c-5c7c-44f4-80d6-9026f7a5d88e",
+    "number": 643,
+    "title": "Maximum Average Subarray I",
+    "slug": "maximum-average-subarray-i",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/maximum-average-subarray-i/",
+    "tags": [],
+    "topics": [
+      "sliding-window",
+      "arrays",
+      "subarrays"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "5fe9a778-bd4a-4920-b999-e1f10ffb4228",
+    "number": 647,
+    "title": "Palindromic Substrings",
+    "slug": "palindromic-substrings",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/palindromic-substrings/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "dynamic-programming",
+      "palindrome",
+      "strings",
+      "two-pointers"
+    ]
+  },
+  {
+    "id": "3f05ec78-1343-43eb-846c-3b660514d624",
+    "number": 684,
+    "title": "Redundant Connection",
+    "slug": "redundant-connection",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/redundant-connection/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "disjoint-set",
+      "graph",
+      "union-find"
+    ]
+  },
+  {
+    "id": "a25c234a-8be6-4b4e-ba73-21c3f20a024d",
+    "number": 704,
+    "title": "Binary Search",
+    "slug": "binary-search",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/binary-search/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "binary-search"
+    ]
+  },
+  {
+    "id": "d59c311e-eaa9-4493-8e0c-523fe0e91e93",
+    "number": 733,
+    "title": "Flood Fill",
+    "slug": "flood-fill",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/flood-fill/",
+    "tags": [],
+    "topics": [
+      "dfs",
+      "bfs",
+      "matrix",
+      "grid",
+      "recursion"
+    ],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00"
+  },
+  {
+    "id": "bf0426af-d051-49ad-a716-d1d61ff47918",
+    "number": 739,
+    "title": "Daily Temperatures",
+    "slug": "daily-temperatures",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/daily-temperatures/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "monotonic-stack",
+      "stack"
+    ]
+  },
+  {
+    "id": "04973e56-3f36-4be3-9125-84d6f4b864da",
+    "number": 743,
+    "title": "Network Delay Time",
+    "slug": "network-delay-time",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/network-delay-time/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "dijkstra",
+      "graph",
+      "heap",
+      "priority-queue",
+      "shortest-path"
+    ]
+  },
+  {
+    "id": "9cdcd850-7a29-47f6-b525-b7425e28adad",
+    "number": 875,
+    "title": "Koko Eating Bananas",
+    "slug": "koko-eating-bananas",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/koko-eating-bananas/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "binary-search",
+      "greedy",
+      "search-on-answer"
+    ]
+  },
+  {
+    "id": "dbdbdacb-556f-4971-84b1-d069e1272195",
+    "number": 876,
+    "title": "Middle of the Linked List",
+    "slug": "middle-of-the-linked-list",
+    "difficulty": "easy",
+    "url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "fast-slow-pointers",
+      "linked-list",
+      "two-pointers"
+    ]
+  },
+  {
+    "id": "d04277d1-193b-4163-bf1b-c66b7a1ad144",
+    "number": 994,
+    "title": "Rotting Oranges",
+    "slug": "rotting-oranges",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/rotting-oranges/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "bfs",
+      "grid",
+      "matrix",
+      "multi-source-bfs",
+      "queue"
+    ]
+  },
+  {
+    "id": "6642b53e-bffb-47c7-922f-928952b86ced",
+    "number": 1011,
+    "title": "Capacity To Ship Packages Within D Days",
+    "slug": "capacity-to-ship-packages-within-d-days",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "arrays",
+      "binary-search",
+      "greedy",
+      "search-on-answer"
+    ]
+  },
+  {
+    "id": "69b48829-557e-46ff-a10a-75e5f6303db7",
+    "number": 1143,
+    "title": "Longest Common Subsequence",
+    "slug": "longest-common-subsequence",
+    "difficulty": "medium",
+    "url": "https://leetcode.com/problems/longest-common-subsequence/",
+    "tags": [],
+    "acceptance_rate": null,
+    "source": "curated",
+    "created_at": "2026-09-04T20:48:50.759639+00:00",
+    "updated_at": "2026-09-04T20:48:50.759639+00:00",
+    "topics": [
+      "2d-dp",
+      "dynamic-programming",
+      "strings",
+      "subsequence"
+    ]
+  }
+]
