@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f5f1e8">
+  <title>Tracker Buddy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Tracker Buddy home">
+        <span class="brand-mark">TB</span>
+        <span>Tracker Buddy</span>
+      </a>
+      <div class="header-meta">
+        <span class="sync-status" id="sync-status"><span class="status-dot"></span> Local only</span>
+        <button class="icon-button" id="reset-button" type="button" title="Reset all progress" aria-label="Reset all progress">↺</button>
+      </div>
+    </header>
+
+    <section class="intro">
+      <div>
+        <p class="eyebrow">A calmer way to keep going</p>
+        <h1>Make the next<br><em>problem</em> count.</h1>
+        <p class="intro-copy">A lightweight home for your curated LeetCode practice. Mark what you finish, see the shape of your progress, and pick the next useful problem.</p>
+      </div>
+      <div class="progress-ring" id="progress-ring" aria-label="0 percent complete">
+        <div class="ring-inner"><strong id="ring-value">0%</strong><span>complete</span></div>
+      </div>
+    </section>
+
+    <section class="stats-grid" aria-label="Progress summary">
+      <article class="stat-card stat-card-main">
+        <span class="stat-label">Problems solved</span>
+        <strong id="solved-count">0</strong>
+        <span class="stat-foot"><span id="total-count">0</span> in your set</span>
+      </article>
+      <article class="stat-card">
+        <span class="stat-label">Current streak</span>
+        <strong id="streak-count">0</strong>
+        <span class="stat-foot">days in a row</span>
+      </article>
+      <article class="stat-card">
+        <span class="stat-label">Remaining</span>
+        <strong id="remaining-count">0</strong>
+        <span class="stat-foot">problems to explore</span>
+      </article>
+      <article class="quote-card">
+        <span class="quote-mark">“</span>
+        <p id="daily-note">Small steps still move the pointer.</p>
+        <span class="quote-author">TODAY'S NOTE</span>
+      </article>
+    </section>
+
+    <section class="workspace" aria-labelledby="library-heading">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Your library</p>
+          <h2 id="library-heading">Curated problems</h2>
+        </div>
+        <span class="result-count" id="result-count">0 problems</span>
+      </div>
+
+      <div class="toolbar">
+        <label class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <input id="search-input" type="search" placeholder="Search by title or number" autocomplete="off">
+        </label>
+        <div class="filter-group" role="group" aria-label="Filter by difficulty">
+          <button class="filter-button active" type="button" data-filter="all">All</button>
+          <button class="filter-button" type="button" data-filter="easy">Easy</button>
+          <button class="filter-button" type="button" data-filter="medium">Medium</button>
+          <button class="filter-button" type="button" data-filter="hard">Hard</button>
+        </div>
+        <label class="sort-select">
+          <span>Sort</span>
+          <select id="sort-select" aria-label="Sort problems">
+            <option value="number">Problem number</option>
+            <option value="status">Progress status</option>
+            <option value="difficulty">Difficulty</option>
+            <option value="title">Title</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="problem-list" id="problem-list" aria-live="polite">
+        <div class="loading-state">Loading your problem set...</div>
+      </div>
+      <div class="empty-state" id="empty-state" hidden>
+        <span class="empty-icon">⌁</span>
+        <h3>No problems found</h3>
+        <p>Try a different search or clear the current filter.</p>
+      </div>
+    </section>
+
+    <footer class="footer-note">Your progress stays in this browser <span>·</span> no account required</footer>
+  </main>
+</body>
+</html>
