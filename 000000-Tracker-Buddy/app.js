@@ -196,8 +196,8 @@ function playSound(kind) {
     const tone = audioContext.createOscillator();
     const toneGain = audioContext.createGain();
     tone.type = "sine";
-    tone.frequency.setValueAtTime(1280, now);
-    tone.frequency.exponentialRampToValueAtTime(390, now + .34);
+    tone.frequency.setValueAtTime(1760, now);
+    tone.frequency.exponentialRampToValueAtTime(560, now + .34);
     toneGain.gain.setValueAtTime(.001, now);
     toneGain.gain.exponentialRampToValueAtTime(.07, now + .008);
     toneGain.gain.exponentialRampToValueAtTime(.001, now + .34);
@@ -213,7 +213,7 @@ function playSound(kind) {
     const noiseGain = audioContext.createGain();
     noise.buffer = noiseBuffer;
     filter.type = "bandpass";
-    filter.frequency.setValueAtTime(2400, now);
+    filter.frequency.setValueAtTime(3600, now);
     filter.Q.setValueAtTime(2.5, now);
     noiseGain.gain.setValueAtTime(.001, now);
     noiseGain.gain.exponentialRampToValueAtTime(.035, now + .004);
