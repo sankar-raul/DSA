@@ -174,7 +174,6 @@ function initCursorParticles() {
   }, { passive: true });
   window.addEventListener("click", (event) => {
     ripples.push({ x: event.clientX, y: event.clientY, radius: 3, life: 1, rotation: Math.random() * Math.PI });
-    playSound("drop");
     if (ripples.length > 8) ripples.shift();
     if (!frameRequested) {
       frameRequested = true;
@@ -191,44 +190,11 @@ function playSound(kind) {
   if (!window.AudioContext && !window.webkitAudioContext) return;
   audioContext ??= new (window.AudioContext || window.webkitAudioContext)();
   if (audioContext.state === "suspended") audioContext.resume();
-  if (kind === "drop") {
-    const now = audioContext.currentTime;
-    const tone = audioContext.createOscillator();
-    const toneGain = audioContext.createGain();
-    tone.type = "sine";
-    tone.frequency.setValueAtTime(1760, now);
-    tone.frequency.exponentialRampToValueAtTime(560, now + .34);
-    toneGain.gain.setValueAtTime(.001, now);
-    toneGain.gain.exponentialRampToValueAtTime(.07, now + .008);
-    toneGain.gain.exponentialRampToValueAtTime(.001, now + .34);
-    tone.connect(toneGain).connect(audioContext.destination);
-    tone.start(now);
-    tone.stop(now + .36);
-
-    const noiseBuffer = audioContext.createBuffer(1, audioContext.sampleRate * .09, audioContext.sampleRate);
-    const noiseData = noiseBuffer.getChannelData(0);
-    for (let index = 0; index < noiseData.length; index += 1) noiseData[index] = (Math.random() * 2 - 1) * (1 - index / noiseData.length);
-    const noise = audioContext.createBufferSource();
-    const filter = audioContext.createBiquadFilter();
-    const noiseGain = audioContext.createGain();
-    noise.buffer = noiseBuffer;
-    filter.type = "bandpass";
-    filter.frequency.setValueAtTime(3600, now);
-    filter.Q.setValueAtTime(2.5, now);
-    noiseGain.gain.setValueAtTime(.001, now);
-    noiseGain.gain.exponentialRampToValueAtTime(.035, now + .004);
-    noiseGain.gain.exponentialRampToValueAtTime(.001, now + .09);
-    noise.connect(filter).connect(noiseGain).connect(audioContext.destination);
-    noise.start(now);
-    noise.stop(now + .1);
-    return;
-  }
   const settings = {
     complete: { start: 520, end: 760, duration: .18, volume: .08 },
     undo: { start: 360, end: 250, duration: .16, volume: .06 },
     select: { start: 680, end: 820, duration: .12, volume: .05 },
-    reset: { start: 280, end: 170, duration: .24, volume: .08 },
-    drop: { start: 1040, end: 330, duration: .3, volume: .11 }
+    reset: { start: 280, end: 170, duration: .24, volume: .08 }
   }[kind] || { start: 500, end: 650, duration: .14, volume: .06 };
   const oscillator = audioContext.createOscillator();
   const gain = audioContext.createGain();
@@ -462,6 +428,7 @@ function updateSoundToggle() {
 
 async function init() {
   try {
+    if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch((error) => console.warn("Offline install support unavailable", error));
     const response = await fetch("leetcode_merged.json");
     if (!response.ok) throw new Error("Could not load leetcode_merged.json");
     state.problems = await response.json();
