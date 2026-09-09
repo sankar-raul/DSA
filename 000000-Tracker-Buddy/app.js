@@ -16,6 +16,7 @@ const state = {
 };
 
 const elements = {
+  particleCanvas: document.querySelector("#cursor-particles"),
   list: document.querySelector("#problem-list"),
   empty: document.querySelector("#empty-state"),
   resultCount: document.querySelector("#result-count"),
@@ -37,6 +38,152 @@ const elements = {
   soundLabel: document.querySelector("#sound-label")
 };
 
+function initCursorParticles() {
+  const canvas = elements.particleCanvas;
+  const canAnimate = window.matchMedia("(min-width: 641px) and (pointer: fine) and (prefers-reduced-motion: no-preference)").matches;
+  if (!canvas || !canAnimate) return;
+  const context = canvas.getContext("2d");
+  const particles = [];
+  const ripples = [];
+  let pointer = { x: -100, y: -100 };
+  let previousPointer = { x: -100, y: -100 };
+  let frameRequested = false;
+
+  function resize() {
+    const pixelRatio = Math.min(window.devicePixelRatio || 1, 2);
+    canvas.width = window.innerWidth * pixelRatio;
+    canvas.height = window.innerHeight * pixelRatio;
+    canvas.style.width = `${window.innerWidth}px`;
+    canvas.style.height = `${window.innerHeight}px`;
+    context.setTransform(pixelRatio, 0, 0, pixelRatio, 0, 0);
+  }
+
+  function addParticles(distance) {
+    const amount = Math.min(Math.ceil(distance / 8), 5);
+    for (let index = 0; index < amount; index += 1) {
+      const progress = (index + 1) / amount;
+      const x = previousPointer.x + (pointer.x - previousPointer.x) * progress;
+      const y = previousPointer.y + (pointer.y - previousPointer.y) * progress;
+      const dust = Math.random() < .48;
+      particles.push({
+        x: x + (Math.random() - .5) * 3,
+        y: y + (Math.random() - .5) * 3,
+        previousX: x,
+        previousY: y,
+        dust,
+        size: Math.random() * 2.4 + 1,
+        spark: !dust && Math.random() < .2,
+        rotation: Math.random() * Math.PI,
+        life: 1,
+        decay: dust ? Math.random() * .009 + .009 : Math.random() * .01 + .018,
+        driftX: (Math.random() - .5) * (dust ? .18 : .32),
+        driftY: (Math.random() - .5) * (dust ? .18 : .32)
+      });
+    }
+    if (particles.length > 90) particles.splice(0, particles.length - 90);
+  }
+
+  function draw() {
+    frameRequested = false;
+    context.clearRect(0, 0, window.innerWidth, window.innerHeight);
+    for (let index = particles.length - 1; index >= 0; index -= 1) {
+      const particle = particles[index];
+      particle.previousX = particle.x;
+      particle.previousY = particle.y;
+      particle.life -= particle.decay;
+      particle.x += particle.driftX;
+      particle.y += particle.driftY;
+      if (particle.life <= 0) {
+        particles.splice(index, 1);
+        continue;
+      }
+      context.globalAlpha = particle.life * .5;
+      context.strokeStyle = "#c4ff3d";
+      context.lineWidth = particle.size * .75;
+      context.lineCap = "round";
+      context.shadowBlur = 10;
+      context.shadowColor = "#c4ff3d";
+      context.beginPath();
+      context.moveTo(particle.previousX, particle.previousY);
+      context.lineTo(particle.x, particle.y);
+      context.stroke();
+      context.globalAlpha = particle.life * (particle.dust ? .28 : .78);
+      context.fillStyle = particle.dust ? "#a9c978" : "#ddff8b";
+      context.beginPath();
+      context.arc(particle.x, particle.y, particle.dust ? particle.size * .55 : particle.size, 0, Math.PI * 2);
+      context.fill();
+      if (particle.spark) {
+        const flare = particle.size * 4.5 * particle.life;
+        const cosine = Math.cos(particle.rotation);
+        const sine = Math.sin(particle.rotation);
+        context.globalAlpha = particle.life * .82;
+        context.strokeStyle = "#f1ffc7";
+        context.lineWidth = .8;
+        context.beginPath();
+        context.moveTo(particle.x - cosine * flare, particle.y - sine * flare);
+        context.lineTo(particle.x + cosine * flare, particle.y + sine * flare);
+        context.moveTo(particle.x + sine * flare, particle.y - cosine * flare);
+        context.lineTo(particle.x - sine * flare, particle.y + cosine * flare);
+        context.stroke();
+      }
+    }
+    for (let index = ripples.length - 1; index >= 0; index -= 1) {
+      const ripple = ripples[index];
+      ripple.life -= .035;
+      ripple.radius += 2.8;
+      if (ripple.life <= 0) {
+        ripples.splice(index, 1);
+        continue;
+      }
+      context.globalAlpha = ripple.life * .62;
+      context.strokeStyle = "#c4ff3d";
+      context.lineWidth = 1.2;
+      context.shadowBlur = 14;
+      context.shadowColor = "#c4ff3d";
+      context.beginPath();
+      context.arc(ripple.x, ripple.y, ripple.radius, 0, Math.PI * 2);
+      context.stroke();
+      context.globalAlpha = ripple.life * .32;
+      context.beginPath();
+      context.arc(ripple.x, ripple.y, ripple.radius * .58, 0, Math.PI * 2);
+      context.stroke();
+      for (let drop = 0; drop < 4; drop += 1) {
+        const angle = ripple.rotation + drop * (Math.PI / 2);
+        const dropDistance = ripple.radius * .82;
+        context.fillStyle = "#efffc1";
+        context.beginPath();
+        context.arc(ripple.x + Math.cos(angle) * dropDistance, ripple.y + Math.sin(angle) * dropDistance, 1.4 * ripple.life, 0, Math.PI * 2);
+        context.fill();
+      }
+    }
+    context.globalAlpha = 1;
+    context.shadowBlur = 0;
+    if (particles.length || ripples.length) requestAnimationFrame(draw);
+  }
+
+  window.addEventListener("resize", resize, { passive: true });
+  window.addEventListener("mousemove", (event) => {
+    previousPointer = pointer.x < 0 ? { x: event.clientX, y: event.clientY } : pointer;
+    pointer = { x: event.clientX, y: event.clientY };
+    const distance = Math.hypot(pointer.x - previousPointer.x, pointer.y - previousPointer.y);
+    addParticles(distance);
+    if (!frameRequested) {
+      frameRequested = true;
+      requestAnimationFrame(draw);
+    }
+  }, { passive: true });
+  window.addEventListener("click", (event) => {
+    ripples.push({ x: event.clientX, y: event.clientY, radius: 3, life: 1, rotation: Math.random() * Math.PI });
+    playSound("drop");
+    if (ripples.length > 8) ripples.shift();
+    if (!frameRequested) {
+      frameRequested = true;
+      requestAnimationFrame(draw);
+    }
+  }, { passive: true });
+  resize();
+}
+
 let audioContext;
 
 function playSound(kind) {
@@ -44,16 +191,49 @@ function playSound(kind) {
   if (!window.AudioContext && !window.webkitAudioContext) return;
   audioContext ??= new (window.AudioContext || window.webkitAudioContext)();
   if (audioContext.state === "suspended") audioContext.resume();
+  if (kind === "drop") {
+    const now = audioContext.currentTime;
+    const tone = audioContext.createOscillator();
+    const toneGain = audioContext.createGain();
+    tone.type = "sine";
+    tone.frequency.setValueAtTime(1280, now);
+    tone.frequency.exponentialRampToValueAtTime(390, now + .34);
+    toneGain.gain.setValueAtTime(.001, now);
+    toneGain.gain.exponentialRampToValueAtTime(.07, now + .008);
+    toneGain.gain.exponentialRampToValueAtTime(.001, now + .34);
+    tone.connect(toneGain).connect(audioContext.destination);
+    tone.start(now);
+    tone.stop(now + .36);
+
+    const noiseBuffer = audioContext.createBuffer(1, audioContext.sampleRate * .09, audioContext.sampleRate);
+    const noiseData = noiseBuffer.getChannelData(0);
+    for (let index = 0; index < noiseData.length; index += 1) noiseData[index] = (Math.random() * 2 - 1) * (1 - index / noiseData.length);
+    const noise = audioContext.createBufferSource();
+    const filter = audioContext.createBiquadFilter();
+    const noiseGain = audioContext.createGain();
+    noise.buffer = noiseBuffer;
+    filter.type = "bandpass";
+    filter.frequency.setValueAtTime(2400, now);
+    filter.Q.setValueAtTime(2.5, now);
+    noiseGain.gain.setValueAtTime(.001, now);
+    noiseGain.gain.exponentialRampToValueAtTime(.035, now + .004);
+    noiseGain.gain.exponentialRampToValueAtTime(.001, now + .09);
+    noise.connect(filter).connect(noiseGain).connect(audioContext.destination);
+    noise.start(now);
+    noise.stop(now + .1);
+    return;
+  }
   const settings = {
-    complete: { start: 520, end: 760, duration: .12, volume: .045 },
-    undo: { start: 360, end: 250, duration: .1, volume: .035 },
-    select: { start: 680, end: 820, duration: .07, volume: .025 },
-    reset: { start: 280, end: 170, duration: .2, volume: .04 }
-  }[kind] || { start: 500, end: 650, duration: .1, volume: .03 };
+    complete: { start: 520, end: 760, duration: .18, volume: .08 },
+    undo: { start: 360, end: 250, duration: .16, volume: .06 },
+    select: { start: 680, end: 820, duration: .12, volume: .05 },
+    reset: { start: 280, end: 170, duration: .24, volume: .08 },
+    drop: { start: 1040, end: 330, duration: .3, volume: .11 }
+  }[kind] || { start: 500, end: 650, duration: .14, volume: .06 };
   const oscillator = audioContext.createOscillator();
   const gain = audioContext.createGain();
   const now = audioContext.currentTime;
-  oscillator.type = "sine";
+  oscillator.type = "triangle";
   oscillator.frequency.setValueAtTime(settings.start, now);
   oscillator.frequency.exponentialRampToValueAtTime(settings.end, now + settings.duration);
   gain.gain.setValueAtTime(0, now);
@@ -285,6 +465,7 @@ async function init() {
     const response = await fetch("leetcode_merged.json");
     if (!response.ok) throw new Error("Could not load leetcode_merged.json");
     state.problems = await response.json();
+    initCursorParticles();
     const topics = [...new Set(state.problems.flatMap((problem) => [...(problem.tags || []), ...(problem.topics || [])]))].sort();
     elements.topic.insertAdjacentHTML("beforeend", topics.map((topic) => `<option value="${escapeHtml(topic)}">${escapeHtml(topic)}</option>`).join(""));
     bindEvents();

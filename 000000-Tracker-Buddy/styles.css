@@ -20,7 +20,10 @@ body {
   color: var(--ink);
   background: var(--paper);
   font-family: "Space Grotesk", sans-serif;
+  user-select: none;
 }
+
+input, select, option { user-select: text; }
 
 body::before {
   position: fixed;
@@ -32,6 +35,8 @@ body::before {
   background-image: linear-gradient(rgba(35, 40, 34, .04) 1px, transparent 1px), linear-gradient(90deg, rgba(35, 40, 34, .04) 1px, transparent 1px);
   background-size: 34px 34px;
 }
+
+#cursor-particles { position: fixed; inset: 0; z-index: 20; width: 100vw; height: 100vh; pointer-events: none; }
 
 button, input, select { font: inherit; }
 button { cursor: pointer; }
