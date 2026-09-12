@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sankar-raul/DSA/tree/master/0043-multiply-strings) |
 | [0832-flipping-an-image](https://github.com/sankar-raul/DSA/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/sankar-raul/DSA/tree/master/1920-build-array-from-permutation) |
 | [3842-toggle-light-bulbs](https://github.com/sankar-raul/DSA/tree/master/3842-toggle-light-bulbs) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/sankar-raul/DSA/tree/master/0043-multiply-strings) |
 | [0443-string-compression](https://github.com/sankar-raul/DSA/tree/master/0443-string-compression) |
 | [2418-sort-the-people](https://github.com/sankar-raul/DSA/tree/master/2418-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sankar-raul/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sankar-raul/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sankar-raul/DSA/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/sankar-raul/DSA/tree/master/0043-multiply-strings) |
 | [0507-perfect-number](https://github.com/sankar-raul/DSA/tree/master/0507-perfect-number) |
 | [1399-count-largest-group](https://github.com/sankar-raul/DSA/tree/master/1399-count-largest-group) |
 | [3871-count-commas-in-range-ii](https://github.com/sankar-raul/DSA/tree/master/3871-count-commas-in-range-ii) |
