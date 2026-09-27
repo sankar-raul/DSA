@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sankar-raul/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sankar-raul/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/sankar-raul/DSA/tree/master/0043-multiply-strings) |
 | [0443-string-compression](https://github.com/sankar-raul/DSA/tree/master/0443-string-compression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sankar-raul/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2418-sort-the-people](https://github.com/sankar-raul/DSA/tree/master/2418-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sankar-raul/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sankar-raul/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sankar-raul/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
