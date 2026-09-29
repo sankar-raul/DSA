@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/sankar-raul/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/sankar-raul/DSA/tree/master/1920-build-array-from-permutation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sankar-raul/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sankar-raul/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2418-sort-the-people](https://github.com/sankar-raul/DSA/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sankar-raul/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sankar-raul/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/sankar-raul/DSA/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/sankar-raul/DSA/tree/master/0994-rotting-oranges) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sankar-raul/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/sankar-raul/DSA/tree/master/0120-triangle) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sankar-raul/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hungarian Algorithm
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sankar-raul/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sankar-raul/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## DP on Trees
 |  |
 | ------- |
