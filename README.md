@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/sankar-raul/DSA/tree/master/0043-multiply-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/sankar-raul/DSA/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sankar-raul/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sankar-raul/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sankar-raul/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0617-merge-two-binary-trees](https://github.com/sankar-raul/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0994-rotting-oranges](https://github.com/sankar-raul/DSA/tree/master/0994-rotting-oranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sankar-raul/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sankar-raul/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
