@@ -31,12 +31,7 @@ public:
             }
         }
         n = s.size() - (d + rem);
-        cout << n;
         valid(0, 0, "", s, ans);
-        int maxi = 0;
-        for (string st : ans) {
-            maxi = max(maxi, (int)st.size());
-        }
         return ans.empty() ? vector<string>{""} : vector<string>(ans.begin(), ans.end());
     }
 };
