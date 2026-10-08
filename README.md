@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sankar-raul/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sankar-raul/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sankar-raul/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/sankar-raul/DSA/tree/master/1768-merge-strings-alternately) |
 | [2418-sort-the-people](https://github.com/sankar-raul/DSA/tree/master/2418-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sankar-raul/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sankar-raul/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sankar-raul/DSA/tree/master/0061-rotate-list) |
 | [0443-string-compression](https://github.com/sankar-raul/DSA/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/sankar-raul/DSA/tree/master/0832-flipping-an-image) |
+| [1768-merge-strings-alternately](https://github.com/sankar-raul/DSA/tree/master/1768-merge-strings-alternately) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sankar-raul/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
