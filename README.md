@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/sankar-raul/DSA/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sankar-raul/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sankar-raul/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sankar-raul/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sankar-raul/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3842-toggle-light-bulbs](https://github.com/sankar-raul/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3895-count-digit-appearances](https://github.com/sankar-raul/DSA/tree/master/3895-count-digit-appearances) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/sankar-raul/DSA/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/sankar-raul/DSA/tree/master/0994-rotting-oranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sankar-raul/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sankar-raul/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/sankar-raul/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0994-rotting-oranges](https://github.com/sankar-raul/DSA/tree/master/0994-rotting-oranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sankar-raul/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sankar-raul/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,4 +294,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0301-remove-invalid-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sankar-raul/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sankar-raul/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sankar-raul/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
