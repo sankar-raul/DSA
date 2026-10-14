@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sankar-raul/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/sankar-raul/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sankar-raul/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sankar-raul/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Math
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/sankar-raul/DSA/tree/master/0507-perfect-number) |
 | [1399-count-largest-group](https://github.com/sankar-raul/DSA/tree/master/1399-count-largest-group) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sankar-raul/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sankar-raul/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/sankar-raul/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3895-count-digit-appearances](https://github.com/sankar-raul/DSA/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
