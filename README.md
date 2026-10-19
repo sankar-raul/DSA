@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sankar-raul/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sankar-raul/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sankar-raul/DSA/tree/master/0112-path-sum) |
+| [0310-minimum-height-trees](https://github.com/sankar-raul/DSA/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/sankar-raul/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sankar-raul/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/sankar-raul/DSA/tree/master/0733-flood-fill) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sankar-raul/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sankar-raul/DSA/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/sankar-raul/DSA/tree/master/0310-minimum-height-trees) |
 | [0617-merge-two-binary-trees](https://github.com/sankar-raul/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/sankar-raul/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sankar-raul/DSA/tree/master/0994-rotting-oranges) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/sankar-raul/DSA/tree/master/0310-minimum-height-trees) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sankar-raul/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sankar-raul/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/sankar-raul/DSA/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
