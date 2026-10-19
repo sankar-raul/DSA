@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/sankar-raul/DSA/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/sankar-raul/DSA/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/sankar-raul/DSA/tree/master/1029-two-city-scheduling) |
+| [1219-path-with-maximum-gold](https://github.com/sankar-raul/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1386-cinema-seat-allocation](https://github.com/sankar-raul/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/sankar-raul/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/sankar-raul/DSA/tree/master/1920-build-array-from-permutation) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sankar-raul/DSA/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/sankar-raul/DSA/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/sankar-raul/DSA/tree/master/0994-rotting-oranges) |
+| [1219-path-with-maximum-gold](https://github.com/sankar-raul/DSA/tree/master/1219-path-with-maximum-gold) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sankar-raul/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sankar-raul/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sankar-raul/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1219-path-with-maximum-gold](https://github.com/sankar-raul/DSA/tree/master/1219-path-with-maximum-gold) |
 ## Graph Theory
 |  |
 | ------- |
