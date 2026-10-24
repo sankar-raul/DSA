@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sankar-raul/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sankar-raul/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/sankar-raul/DSA/tree/master/1768-merge-strings-alternately) |
+| [2409-count-days-spent-together](https://github.com/sankar-raul/DSA/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/sankar-raul/DSA/tree/master/2418-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sankar-raul/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sankar-raul/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sankar-raul/DSA/tree/master/0043-multiply-strings) |
 | [0507-perfect-number](https://github.com/sankar-raul/DSA/tree/master/0507-perfect-number) |
 | [1399-count-largest-group](https://github.com/sankar-raul/DSA/tree/master/1399-count-largest-group) |
+| [2409-count-days-spent-together](https://github.com/sankar-raul/DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sankar-raul/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sankar-raul/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/sankar-raul/DSA/tree/master/3871-count-commas-in-range-ii) |
